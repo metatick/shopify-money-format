@@ -1,0 +1,566 @@
+{
+  "USD": {
+    "money_format": "${{amount}}",
+    "money_with_currency_format": "${{amount}} USD"
+  },
+  "EUR": {
+    "money_format": "&euro;{{amount_with_comma_separator}}",
+    "money_with_currency_format": "&euro;{{amount_with_comma_separator}} EUR"
+  },
+  "GBP": {
+    "money_format": "&pound;{{amount}}",
+    "money_with_currency_format": "&pound;{{amount}} GBP"
+  },
+  "CAD": {
+    "money_format": "${{amount}}",
+    "money_with_currency_format": "${{amount}} CAD"
+  },
+  "ALL": {
+    "money_format": "Lek {{amount_with_comma_separator}}",
+    "money_with_currency_format": "Lek {{amount_with_comma_separator}} ALL"
+  },
+  "DZD": {
+    "money_format": "DA {{amount_with_comma_separator}}",
+    "money_with_currency_format": "DA {{amount_with_comma_separator}} DZD"
+  },
+  "AOA": {
+    "money_format": "Kz{{amount_with_comma_separator}}",
+    "money_with_currency_format": "Kz{{amount_with_comma_separator}} AOA"
+  },
+  "ARS": {
+    "money_format": "${{amount_with_comma_separator}}",
+    "money_with_currency_format": "${{amount_with_comma_separator}} ARS"
+  },
+  "AMD": {
+    "money_format": "{{amount_with_comma_separator}} AMD",
+    "money_with_currency_format": "{{amount_with_comma_separator}} AMD"
+  },
+  "AWG": {
+    "money_format": "Afl{{amount_with_comma_separator}}",
+    "money_with_currency_format": "Afl{{amount_with_comma_separator}} AWG"
+  },
+  "AUD": {
+    "money_format": "${{amount}}",
+    "money_with_currency_format": "${{amount}} AUD"
+  },
+  "BBD": {
+    "money_format": "${{amount_with_comma_separator}}",
+    "money_with_currency_format": "${{amount_with_comma_separator}} Bds"
+  },
+  "AZN": {
+    "money_format": "m.{{amount_with_comma_separator}}",
+    "money_with_currency_format": "m.{{amount_with_comma_separator}} AZN"
+  },
+  "BDT": {
+    "money_format": "Tk {{amount_with_comma_separator}}",
+    "money_with_currency_format": "Tk {{amount_with_comma_separator}} BDT"
+  },
+  "BSD": {
+    "money_format": "BS${{amount_with_comma_separator}}",
+    "money_with_currency_format": "BS${{amount_with_comma_separator}} BSD"
+  },
+  "BHD": {
+    "money_format": "{{amount_with_comma_separator}}0 BD",
+    "money_with_currency_format": "{{amount_with_comma_separator}}0 BHD"
+  },
+  "BYR": {
+    "money_format": "Br {{amount_with_comma_separator}}",
+    "money_with_currency_format": "Br {{amount_with_comma_separator}} BYR"
+  },
+  "BZD": {
+    "money_format": "BZ${{amount_with_comma_separator}}",
+    "money_with_currency_format": "BZ${{amount_with_comma_separator}} BZD"
+  },
+  "BTN": {
+    "money_format": "Nu {{amount_with_comma_separator}}",
+    "money_with_currency_format": "Nu {{amount_with_comma_separator}} BTN"
+  },
+  "BAM": {
+    "money_format": "KM {{amount_with_comma_separator}}",
+    "money_with_currency_format": "KM {{amount_with_comma_separator}} BAM"
+  },
+  "BRL": {
+    "money_format": "R$ {{amount_with_comma_separator}}",
+    "money_with_currency_format": "R$ {{amount_with_comma_separator}} BRL"
+  },
+  "BOB": {
+    "money_format": "Bs{{amount_with_comma_separator}}",
+    "money_with_currency_format": "Bs{{amount_with_comma_separator}} BOB"
+  },
+  "BWP": {
+    "money_format": "P{{amount}}",
+    "money_with_currency_format": "P{{amount}} BWP"
+  },
+  "BND": {
+    "money_format": "${{amount}}",
+    "money_with_currency_format": "${{amount}} BND"
+  },
+  "BGN": {
+    "money_format": "{{amount_with_comma_separator}} лв",
+    "money_with_currency_format": "{{amount_with_comma_separator}} лв BGN"
+  },
+  "MMK": {
+    "money_format": "K{{amount_with_comma_separator}}",
+    "money_with_currency_format": "K{{amount_with_comma_separator}} MMK"
+  },
+  "KHR": {
+    "money_format": "KHR{{amount_with_comma_separator}}",
+    "money_with_currency_format": "KHR{{amount_with_comma_separator}}"
+  },
+  "KYD": {
+    "money_format": "${{amount_with_comma_separator}}",
+    "money_with_currency_format": "${{amount_with_comma_separator}} KYD"
+  },
+  "XAF": {
+    "money_format": "FCFA{{amount_with_comma_separator}}",
+    "money_with_currency_format": "FCFA{{amount_with_comma_separator}} XAF"
+  },
+  "CLP": {
+    "money_format": "${{amount_no_decimals}}",
+    "money_with_currency_format": "${{amount_no_decimals}} CLP"
+  },
+  "CNY": {
+    "money_format": "&#165;{{amount}}",
+    "money_with_currency_format": "&#165;{{amount}} CNY"
+  },
+  "COP": {
+    "money_format": "${{amount_with_comma_separator}}",
+    "money_with_currency_format": "${{amount_with_comma_separator}} COP"
+  },
+  "CRC": {
+    "money_format": "&#8353; {{amount_with_comma_separator}}",
+    "money_with_currency_format": "&#8353; {{amount_with_comma_separator}} CRC"
+  },
+  "HRK": {
+    "money_format": "{{amount_with_comma_separator}} kn",
+    "money_with_currency_format": "{{amount_with_comma_separator}} kn HRK"
+  },
+  "CZK": {
+    "money_format": "{{amount_with_comma_separator}} K&#269;",
+    "money_with_currency_format": "{{amount_with_comma_separator}} K&#269;"
+  },
+  "DKK": {
+    "money_format": "{{amount_with_comma_separator}}",
+    "money_with_currency_format": "kr.{{amount_with_comma_separator}}"
+  },
+  "DOP": {
+    "money_format": "RD$ {{amount}}",
+    "money_with_currency_format": "RD$ {{amount}}"
+  },
+  "XCD": {
+    "money_format": "${{amount_with_comma_separator}}",
+    "money_with_currency_format": "EC${{amount_with_comma_separator}}"
+  },
+  "EGP": {
+    "money_format": "LE {{amount_with_comma_separator}}",
+    "money_with_currency_format": "LE {{amount_with_comma_separator}} EGP"
+  },
+  "ETB": {
+    "money_format": "Br{{amount_with_comma_separator}}",
+    "money_with_currency_format": "Br{{amount_with_comma_separator}} ETB"
+  },
+  "XPF": {
+    "money_format": "{{amount_no_decimals_with_comma_separator}} XPF",
+    "money_with_currency_format": "{{amount_no_decimals_with_comma_separator}} XPF"
+  },
+  "FJD": {
+    "money_format": "${{amount_with_comma_separator}}",
+    "money_with_currency_format": "FJ${{amount_with_comma_separator}}"
+  },
+  "GMD": {
+    "money_format": "D {{amount_with_comma_separator}}",
+    "money_with_currency_format": "D {{amount_with_comma_separator}} GMD"
+  },
+  "GHS": {
+    "money_format": "GH&#8373;{{amount_with_comma_separator}}",
+    "money_with_currency_format": "GH&#8373;{{amount_with_comma_separator}}"
+  },
+  "GTQ": {
+    "money_format": "Q{{amount}}",
+    "money_with_currency_format": "{{amount}} GTQ"
+  },
+  "GYD": {
+    "money_format": "G${{amount_with_comma_separator}}",
+    "money_with_currency_format": "${{amount_with_comma_separator}} GYD"
+  },
+  "GEL": {
+    "money_format": "{{amount_with_comma_separator}} GEL",
+    "money_with_currency_format": "{{amount_with_comma_separator}} GEL"
+  },
+  "HNL": {
+    "money_format": "L {{amount_with_comma_separator}}",
+    "money_with_currency_format": "L {{amount_with_comma_separator}} HNL"
+  },
+  "HKD": {
+    "money_format": "${{amount}}",
+    "money_with_currency_format": "HK${{amount}}"
+  },
+  "HUF": {
+    "money_format": "{{amount_no_decimals_with_comma_separator}}",
+    "money_with_currency_format": "{{amount_no_decimals_with_comma_separator}} Ft"
+  },
+  "ISK": {
+    "money_format": "{{amount_no_decimals}} kr",
+    "money_with_currency_format": "{{amount_no_decimals}} kr ISK"
+  },
+  "INR": {
+    "money_format": " Rs. {{amount}}",
+    "money_with_currency_format": " Rs. {{amount}}"
+  },
+  "IDR": {
+    "money_format": "{{amount_with_comma_separator}}",
+    "money_with_currency_format": "Rp {{amount_with_comma_separator}}"
+  },
+  "ILS": {
+    "money_format": "{{amount}} NIS",
+    "money_with_currency_format": "{{amount}} NIS"
+  },
+  "JMD": {
+    "money_format": "${{amount_with_comma_separator}}",
+    "money_with_currency_format": "${{amount_with_comma_separator}} JMD"
+  },
+  "JPY": {
+    "money_format": "&#165;{{amount_no_decimals}}",
+    "money_with_currency_format": "&#165;{{amount_no_decimals}} JPY"
+  },
+  "JEP": {
+    "money_format": "&pound;{{amount_with_comma_separator}}",
+    "money_with_currency_format": "&pound;{{amount_with_comma_separator}} JEP"
+  },
+  "JOD": {
+    "money_format": "{{amount_with_comma_separator}}0 JD",
+    "money_with_currency_format": "{{amount_with_comma_separator}}0 JOD"
+  },
+  "KZT": {
+    "money_format": "{{amount_with_comma_separator}} KZT",
+    "money_with_currency_format": "{{amount_with_comma_separator}} KZT"
+  },
+  "KES": {
+    "money_format": "KSh{{amount}}",
+    "money_with_currency_format": "KSh{{amount}}"
+  },
+  "KWD": {
+    "money_format": "{{amount_with_comma_separator}}0 KD",
+    "money_with_currency_format": "{{amount_with_comma_separator}}0 KWD"
+  },
+  "KGS": {
+    "money_format": "лв{{amount_with_comma_separator}}",
+    "money_with_currency_format": "лв{{amount_with_comma_separator}}"
+  },
+  "LVL": {
+    "money_format": "Ls {{amount_with_comma_separator}}",
+    "money_with_currency_format": "Ls {{amount_with_comma_separator}} LVL"
+  },
+  "LBP": {
+    "money_format": "L&pound;{{amount}}",
+    "money_with_currency_format": "L&pound;{{amount}} LBP"
+  },
+  "LTL": {
+    "money_format": "{{amount_with_comma_separator}} Lt",
+    "money_with_currency_format": "{{amount_with_comma_separator}} Lt"
+  },
+  "MGA": {
+    "money_format": "Ar {{amount_with_comma_separator}}",
+    "money_with_currency_format": "Ar {{amount_with_comma_separator}} MGA"
+  },
+  "MKD": {
+    "money_format": "ден {{amount_with_comma_separator}}",
+    "money_with_currency_format": "ден {{amount_with_comma_separator}} MKD"
+  },
+  "MOP": {
+    "money_format": "MOP${{amount_with_comma_separator}}",
+    "money_with_currency_format": "MOP${{amount_with_comma_separator}}"
+  },
+  "MVR": {
+    "money_format": "Rf{{amount_with_comma_separator}}",
+    "money_with_currency_format": "Rf{{amount_with_comma_separator}} MRf"
+  },
+  "MXN": {
+    "money_format": "$ {{amount}}",
+    "money_with_currency_format": "$ {{amount}} MXN"
+  },
+  "MYR": {
+    "money_format": "RM{{amount}} MYR",
+    "money_with_currency_format": "RM{{amount}} MYR"
+  },
+  "MUR": {
+    "money_format": "Rs {{amount_with_comma_separator}}",
+    "money_with_currency_format": "Rs {{amount_with_comma_separator}} MUR"
+  },
+  "MDL": {
+    "money_format": "{{amount_with_comma_separator}} MDL",
+    "money_with_currency_format": "{{amount_with_comma_separator}} MDL"
+  },
+  "MAD": {
+    "money_format": "{{amount_with_comma_separator}} dh",
+    "money_with_currency_format": "Dh {{amount_with_comma_separator}} MAD"
+  },
+  "MNT": {
+    "money_format": "{{amount_no_decimals}} &#8366",
+    "money_with_currency_format": "{{amount_no_decimals}} MNT"
+  },
+  "MZN": {
+    "money_format": "{{amount_with_comma_separator}} Mt",
+    "money_with_currency_format": "Mt {{amount_with_comma_separator}} MZN"
+  },
+  "NAD": {
+    "money_format": "N${{amount_with_comma_separator}}",
+    "money_with_currency_format": "N${{amount_with_comma_separator}} NAD"
+  },
+  "NPR": {
+    "money_format": "Rs{{amount}}",
+    "money_with_currency_format": "Rs{{amount}} NPR"
+  },
+  "ANG": {
+    "money_format": "&fnof;{{amount_with_comma_separator}}",
+    "money_with_currency_format": "{{amount_with_comma_separator}} NA&fnof;"
+  },
+  "NZD": {
+    "money_format": "${{amount}}",
+    "money_with_currency_format": "${{amount}} NZD"
+  },
+  "NIO": {
+    "money_format": "C${{amount}}",
+    "money_with_currency_format": "C${{amount}} NIO"
+  },
+  "NGN": {
+    "money_format": "&#8358;{{amount}}",
+    "money_with_currency_format": "&#8358;{{amount}} NGN"
+  },
+  "NOK": {
+    "money_format": "kr {{amount_with_comma_separator}}",
+    "money_with_currency_format": "kr {{amount_with_comma_separator}} NOK"
+  },
+  "OMR": {
+    "money_format": "{{amount_with_comma_separator}} OMR",
+    "money_with_currency_format": "{{amount_with_comma_separator}} OMR"
+  },
+  "PKR": {
+    "money_format": "Rs.{{amount}}",
+    "money_with_currency_format": "Rs.{{amount}} PKR"
+  },
+  "PGK": {
+    "money_format": "K {{amount_with_comma_separator}}",
+    "money_with_currency_format": "K {{amount_with_comma_separator}} PGK"
+  },
+  "PYG": {
+    "money_format": "Gs. {{amount_no_decimals_with_comma_separator}}",
+    "money_with_currency_format": "Gs. {{amount_no_decimals_with_comma_separator}} PYG"
+  },
+  "PEN": {
+    "money_format": "S/. {{amount_with_comma_separator}}",
+    "money_with_currency_format": "S/. {{amount_with_comma_separator}} PEN"
+  },
+  "PHP": {
+    "money_format": "&#8369;{{amount}}",
+    "money_with_currency_format": "&#8369;{{amount}} PHP"
+  },
+  "PLN": {
+    "money_format": "{{amount_with_comma_separator}} zl",
+    "money_with_currency_format": "{{amount_with_comma_separator}} zl PLN"
+  },
+  "QAR": {
+    "money_format": "QAR {{amount_with_comma_separator}}",
+    "money_with_currency_format": "QAR {{amount_with_comma_separator}}"
+  },
+  "RON": {
+    "money_format": "{{amount_with_comma_separator}} lei",
+    "money_with_currency_format": "{{amount_with_comma_separator}} lei RON"
+  },
+  "RUB": {
+    "money_format": "&#1088;&#1091;&#1073;{{amount_with_comma_separator}}",
+    "money_with_currency_format": "&#1088;&#1091;&#1073;{{amount_with_comma_separator}} RUB"
+  },
+  "RWF": {
+    "money_format": "{{amount_no_decimals}} RF",
+    "money_with_currency_format": "{{amount_no_decimals}} RWF"
+  },
+  "WST": {
+    "money_format": "WS$ {{amount_with_comma_separator}}",
+    "money_with_currency_format": "WS$ {{amount_with_comma_separator}} WST"
+  },
+  "SAR": {
+    "money_format": "{{amount_with_comma_separator}} SR",
+    "money_with_currency_format": "{{amount_with_comma_separator}} SAR"
+  },
+  "STD": {
+    "money_format": "Db {{amount_with_comma_separator}}",
+    "money_with_currency_format": "Db {{amount_with_comma_separator}} STD"
+  },
+  "RSD": {
+    "money_format": "{{amount_with_comma_separator}} RSD",
+    "money_with_currency_format": "{{amount_with_comma_separator}} RSD"
+  },
+  "SCR": {
+    "money_format": "Rs {{amount_with_comma_separator}}",
+    "money_with_currency_format": "Rs {{amount_with_comma_separator}} SCR"
+  },
+  "SGD": {
+    "money_format": "${{amount}}",
+    "money_with_currency_format": "${{amount}} SGD"
+  },
+  "SYP": {
+    "money_format": "S&pound;{{amount_with_comma_separator}}",
+    "money_with_currency_format": "S&pound;{{amount_with_comma_separator}} SYP"
+  },
+  "ZAR": {
+    "money_format": "R {{amount_with_comma_separator}}",
+    "money_with_currency_format": "R {{amount_with_comma_separator}} ZAR"
+  },
+  "KRW": {
+    "money_format": "&#8361;{{amount_no_decimals}}",
+    "money_with_currency_format": "&#8361;{{amount_no_decimals}} KRW"
+  },
+  "KPW": {
+    "money_format": "&#8361;{{amount_no_decimals}}",
+    "money_with_currency_format": "&#8361;{{amount_no_decimals}} KPW"
+  },
+  "LKR": {
+    "money_format": "Rs {{amount}}",
+    "money_with_currency_format": "Rs {{amount}} LKR"
+  },
+  "SEK": {
+    "money_format": "{{amount_no_decimals}} kr",
+    "money_with_currency_format": "{{amount_no_decimals}} kr SEK"
+  },
+  "CHF": {
+    "money_format": "SFr. {{amount}}",
+    "money_with_currency_format": "SFr. {{amount}} CHF"
+  },
+  "TWD": {
+    "money_format": "${{amount}}",
+    "money_with_currency_format": "${{amount}} TWD"
+  },
+  "THB": {
+    "money_format": "{{amount}} &#xe3f;",
+    "money_with_currency_format": "{{amount}} &#xe3f; THB"
+  },
+  "TZS": {
+    "money_format": "{{amount}} TZS",
+    "money_with_currency_format": "{{amount}} TZS"
+  },
+  "TTD": {
+    "money_format": "${{amount_with_comma_separator}}",
+    "money_with_currency_format": "${{amount_with_comma_separator}} TTD"
+  },
+  "TND": {
+    "money_format": "{{amount_with_comma_separator}}",
+    "money_with_currency_format": "{{amount_with_comma_separator}} DT"
+  },
+  "TRY": {
+    "money_format": "{{amount_with_comma_separator}}TL",
+    "money_with_currency_format": "{{amount_with_comma_separator}}TL"
+  },
+  "UGX": {
+    "money_format": "Ush {{amount_no_decimals}}",
+    "money_with_currency_format": "Ush {{amount_no_decimals}} UGX"
+  },
+  "UAH": {
+    "money_format": "₴{{amount_with_comma_separator}}",
+    "money_with_currency_format": "₴{{amount_with_comma_separator}} UAH"
+  },
+  "AED": {
+    "money_format": "Dhs. {{amount_with_comma_separator}}",
+    "money_with_currency_format": "Dhs. {{amount_with_comma_separator}} AED"
+  },
+  "UYU": {
+    "money_format": "${{amount_with_comma_separator}}",
+    "money_with_currency_format": "${{amount_with_comma_separator}} UYU"
+  },
+  "VUV": {
+    "money_format": "${{amount_with_comma_separator}}",
+    "money_with_currency_format": "${{amount_with_comma_separator}}VT"
+  },
+  "VEF": {
+    "money_format": "Bs. {{amount_with_comma_separator}}",
+    "money_with_currency_format": "Bs. {{amount_with_comma_separator}} VEF"
+  },
+  "VND": {
+    "money_format": "{{amount_no_decimals_with_comma_separator}}&#8363;",
+    "money_with_currency_format": "{{amount_no_decimals_with_comma_separator}} VND"
+  },
+  "XBT": {
+    "money_format": "{{amount_no_decimals}} BTC",
+    "money_with_currency_format": "{{amount_no_decimals}} BTC"
+  },
+  "XOF": {
+    "money_format": "CFA{{amount_with_comma_separator}}",
+    "money_with_currency_format": "CFA{{amount_with_comma_separator}} XOF"
+  },
+  "ZMW": {
+    "money_format": "K{{amount_no_decimals_with_comma_separator}}",
+    "money_with_currency_format": "ZMW{{amount_no_decimals_with_comma_separator}}"
+  },
+  "AFN": {
+    "money_format": "{{amount_with_comma_separator}} ؋",
+    "money_with_currency_format": "{{amount_with_comma_separator}} AFN"
+  },
+  "BIF": {
+    "money_format": "FBu {{amount_with_comma_separator}}",
+    "money_with_currency_format": "{{amount_with_comma_separator}} BIF"
+  },
+  "BMD": {
+    "money_format": "${{amount_with_comma_separator}}",
+    "money_with_currency_format": "${{amount_with_comma_separator}} BMD"
+  },
+  "CDF": {
+    "money_format": "FC {{amount_with_comma_separator}}",
+    "money_with_currency_format": "{{amount_with_comma_separator}} CDF"
+  },
+  "CVE": {
+    "money_format": "${{amount_with_comma_separator}}",
+    "money_with_currency_format": "${{amount_with_comma_separator}} CVE"
+  },
+  "DJF": {
+    "money_format": "{{amount_with_comma_separator}} فرنك‎‎",
+    "money_with_currency_format": "{{amount_with_comma_separator}} DJF"
+  },
+  "ERN": {
+    "money_format": "Nfk {{amount_with_comma_separator}}",
+    "money_with_currency_format": "{{amount_with_comma_separator}} ERN"
+  },
+  "GNF": {
+    "money_format": "FG {{amount_with_comma_separator}}",
+    "money_with_currency_format": "{{amount_with_comma_separator}} GNF"
+  },
+  "IQD": {
+    "money_format": "{{amount_with_comma_separator}} د.ع",
+    "money_with_currency_format": "{{amount_with_comma_separator}} IQD"
+  },
+  "IRR": {
+    "money_format": "{{amount_with_comma_separator}} ﷼",
+    "money_with_currency_format": "{{amount_with_comma_separator}} IRR"
+  },
+  "KMF": {
+    "money_format": "CF {{amount_with_comma_separator}}",
+    "money_with_currency_format": "{{amount_with_comma_separator}} KMF"
+  },
+  "LRD": {
+    "money_format": "${{amount_with_comma_separator}}",
+    "money_with_currency_format": "${{amount_with_comma_separator}} LRD"
+  },
+  "LYD": {
+    "money_format": "{{amount_with_comma_separator}} ل.د",
+    "money_with_currency_format": "{{amount_with_comma_separator}} LYD"
+  },
+  "PAB": {
+    "money_format": "B/. {{amount_with_comma_separator}}",
+    "money_with_currency_format": "{{amount_with_comma_separator}} PAB"
+  },
+  "SDG": {
+    "money_format": "{{amount_with_comma_separator}} ج.س",
+    "money_with_currency_format": "{{amount_with_comma_separator}} SDG"
+  },
+  "SOS": {
+    "money_format": "Sh.So. {{amount_with_comma_separator}}",
+    "money_with_currency_format": "Sh.So. {{amount_with_comma_separator}}"
+  },
+  "TOP": {
+    "money_format": "T${{amount_with_comma_separator}}",
+    "money_with_currency_format": "T${{amount_with_comma_separator}}"
+  },
+  "UZS": {
+    "money_format": "{{amount_with_comma_separator}} UZS",
+    "money_with_currency_format": "{{amount_with_comma_separator}} UZS"
+  }
+}
